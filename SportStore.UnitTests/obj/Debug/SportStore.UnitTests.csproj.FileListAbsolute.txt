@@ -33,3 +33,5 @@ E:\Personal\SportsStore\SportStore.UnitTests\bin\Debug\System.Web.WebPages.Razor
 E:\Personal\SportsStore\SportStore.UnitTests\obj\Debug\SportStore.UnitTests.csprojResolveAssemblyReference.cache
 E:\Personal\SportsStore\SportStore.UnitTests\obj\Debug\SportStore.UnitTests.dll
 E:\Personal\SportsStore\SportStore.UnitTests\obj\Debug\SportStore.UnitTests.pdb
+E:\Personal\SportsStore\SportStore.UnitTests\bin\Debug\SportsStore.Domain.dll
+E:\Personal\SportsStore\SportStore.UnitTests\bin\Debug\SportsStore.Domain.pdb

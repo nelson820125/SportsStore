@@ -34,3 +34,5 @@ E:\Personal\SportsStore\SportStore.WebUI\bin\System.Web.WebPages.Razor.xml
 E:\Personal\SportsStore\SportStore.WebUI\obj\Debug\SportStore.WebUI.csprojResolveAssemblyReference.cache
 E:\Personal\SportsStore\SportStore.WebUI\obj\Debug\SportStore.WebUI.dll
 E:\Personal\SportsStore\SportStore.WebUI\obj\Debug\SportStore.WebUI.pdb
+E:\Personal\SportsStore\SportStore.WebUI\bin\SportsStore.Domain.dll
+E:\Personal\SportsStore\SportStore.WebUI\bin\SportsStore.Domain.pdb
