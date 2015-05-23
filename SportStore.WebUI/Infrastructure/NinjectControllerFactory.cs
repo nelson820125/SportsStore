@@ -1,6 +1,7 @@
 ﻿using Moq;
 using Ninject;
 using SportsStore.Domain.Abstract;
+using SportsStore.Domain.Contrete;
 using SportsStore.Domain.Entities;
 using System;
 using System.Collections.Generic;
@@ -30,13 +31,14 @@ namespace SportStore.WebUI.Infrastructure
 
         private void AddBindings()
         {
-            Mock<IProductRepository> mock = new Mock<IProductRepository>();
-            mock.Setup(m => m.Products).Returns(new List<Product> { 
-                new Product{Name="Football", Price=25},
-                new Product{Name="Surf board", Price=179},
-                new Product{Name="Running shoes", Price=95}
-            }.AsQueryable());
-            ninjectKernel.Bind<IProductRepository>().ToConstant(mock.Object);
+            //Mock<IProductRepository> mock = new Mock<IProductRepository>();
+            //mock.Setup(m => m.Products).Returns(new List<Product> { 
+            //    new Product{Name="Football", Price=25},
+            //    new Product{Name="Surf board", Price=179},
+            //    new Product{Name="Running shoes", Price=95}
+            //}.AsQueryable());
+            //ninjectKernel.Bind<IProductRepository>().ToConstant(mock.Object);
+            ninjectKernel.Bind<IProductRepository>().To<EFProductRepository>();
         }
     }
 }

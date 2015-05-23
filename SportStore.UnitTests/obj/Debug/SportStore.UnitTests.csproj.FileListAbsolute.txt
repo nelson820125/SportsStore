@@ -35,3 +35,5 @@ E:\Personal\SportsStore\SportStore.UnitTests\obj\Debug\SportStore.UnitTests.dll
 E:\Personal\SportsStore\SportStore.UnitTests\obj\Debug\SportStore.UnitTests.pdb
 E:\Personal\SportsStore\SportStore.UnitTests\bin\Debug\SportsStore.Domain.dll
 E:\Personal\SportsStore\SportStore.UnitTests\bin\Debug\SportsStore.Domain.pdb
+E:\Personal\SportsStore\SportStore.UnitTests\bin\Debug\EntityFramework.dll
+E:\Personal\SportsStore\SportStore.UnitTests\bin\Debug\EntityFramework.xml

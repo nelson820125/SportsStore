@@ -3,3 +3,8 @@ E:\Personal\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
 E:\Personal\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
 E:\Personal\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
 E:\Personal\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+E:\Personal\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+E:\Personal\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+E:\Personal\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+E:\Personal\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+E:\Personal\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
