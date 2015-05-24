@@ -8,3 +8,13 @@ E:\Personal\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
 E:\Personal\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
 E:\Personal\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
 E:\Personal\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+E:\ning\Personal\Study\Codes\NET\Mvc\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+E:\ning\Personal\Study\Codes\NET\Mvc\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+E:\ning\Personal\Study\Codes\NET\Mvc\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+E:\ning\Personal\Study\Codes\NET\Mvc\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+E:\ning\Personal\Study\Codes\NET\Mvc\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+E:\ning\Personal\Study\Codes\NET\Mvc\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+E:\ning\Personal\Study\Codes\NET\Mvc\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+E:\ning\Personal\Study\Codes\NET\Mvc\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
+E:\ning\Personal\Study\Codes\NET\Mvc\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+E:\ning\Personal\Study\Codes\NET\Mvc\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
