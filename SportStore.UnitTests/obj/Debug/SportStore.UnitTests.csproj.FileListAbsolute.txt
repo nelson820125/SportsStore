@@ -7,10 +7,7 @@ E:\Personal\SportsStore\SportStore.UnitTests\bin\Debug\Moq.dll
 E:\Personal\SportsStore\SportStore.UnitTests\bin\Debug\Newtonsoft.Json.dll
 E:\Personal\SportsStore\SportStore.UnitTests\bin\Debug\Ninject.dll
 E:\Personal\SportsStore\SportStore.UnitTests\bin\Debug\SportStore.WebUI.dll
-E:\Personal\SportsStore\SportStore.UnitTests\bin\Debug\System.Net.Http.Formatting.dll
 E:\Personal\SportsStore\SportStore.UnitTests\bin\Debug\System.Web.Helpers.dll
-E:\Personal\SportsStore\SportStore.UnitTests\bin\Debug\System.Web.Http.dll
-E:\Personal\SportsStore\SportStore.UnitTests\bin\Debug\System.Web.Http.WebHost.dll
 E:\Personal\SportsStore\SportStore.UnitTests\bin\Debug\System.Web.Mvc.dll
 E:\Personal\SportsStore\SportStore.UnitTests\bin\Debug\System.Web.Razor.dll
 E:\Personal\SportsStore\SportStore.UnitTests\bin\Debug\System.Web.WebPages.Deployment.dll
@@ -21,10 +18,7 @@ E:\Personal\SportsStore\SportStore.UnitTests\bin\Debug\SportStore.WebUI.pdb
 E:\Personal\SportsStore\SportStore.UnitTests\bin\Debug\Moq.xml
 E:\Personal\SportsStore\SportStore.UnitTests\bin\Debug\Ninject.xml
 E:\Personal\SportsStore\SportStore.UnitTests\bin\Debug\Newtonsoft.Json.xml
-E:\Personal\SportsStore\SportStore.UnitTests\bin\Debug\System.Net.Http.Formatting.xml
 E:\Personal\SportsStore\SportStore.UnitTests\bin\Debug\System.Web.Helpers.xml
-E:\Personal\SportsStore\SportStore.UnitTests\bin\Debug\System.Web.Http.xml
-E:\Personal\SportsStore\SportStore.UnitTests\bin\Debug\System.Web.Http.WebHost.xml
 E:\Personal\SportsStore\SportStore.UnitTests\bin\Debug\System.Web.Mvc.xml
 E:\Personal\SportsStore\SportStore.UnitTests\bin\Debug\System.Web.Razor.xml
 E:\Personal\SportsStore\SportStore.UnitTests\bin\Debug\System.Web.WebPages.xml

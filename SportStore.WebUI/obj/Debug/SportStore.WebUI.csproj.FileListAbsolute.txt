@@ -8,9 +8,6 @@ E:\Personal\SportsStore\SportStore.WebUI\bin\Microsoft.Web.Mvc.FixedDisplayModes
 E:\Personal\SportsStore\SportStore.WebUI\bin\Moq.dll
 E:\Personal\SportsStore\SportStore.WebUI\bin\Newtonsoft.Json.dll
 E:\Personal\SportsStore\SportStore.WebUI\bin\Ninject.dll
-E:\Personal\SportsStore\SportStore.WebUI\bin\System.Net.Http.Formatting.dll
-E:\Personal\SportsStore\SportStore.WebUI\bin\System.Web.Http.dll
-E:\Personal\SportsStore\SportStore.WebUI\bin\System.Web.Http.WebHost.dll
 E:\Personal\SportsStore\SportStore.WebUI\bin\System.Web.Mvc.dll
 E:\Personal\SportsStore\SportStore.WebUI\bin\System.Web.Optimization.dll
 E:\Personal\SportsStore\SportStore.WebUI\bin\System.Web.Providers.dll
@@ -23,9 +20,6 @@ E:\Personal\SportsStore\SportStore.WebUI\bin\Moq.xml
 E:\Personal\SportsStore\SportStore.WebUI\bin\Ninject.xml
 E:\Personal\SportsStore\SportStore.WebUI\bin\EntityFramework.xml
 E:\Personal\SportsStore\SportStore.WebUI\bin\Newtonsoft.Json.xml
-E:\Personal\SportsStore\SportStore.WebUI\bin\System.Net.Http.Formatting.xml
-E:\Personal\SportsStore\SportStore.WebUI\bin\System.Web.Http.xml
-E:\Personal\SportsStore\SportStore.WebUI\bin\System.Web.Http.WebHost.xml
 E:\Personal\SportsStore\SportStore.WebUI\bin\System.Web.Mvc.xml
 E:\Personal\SportsStore\SportStore.WebUI\bin\System.Web.Razor.xml
 E:\Personal\SportsStore\SportStore.WebUI\bin\System.Web.WebPages.xml
